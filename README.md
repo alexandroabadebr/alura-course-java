@@ -1,2 +1,2 @@
-# alura-course-java
-Complete java learning guide
+# Complete Java Learning Guide - Alura
+ 
